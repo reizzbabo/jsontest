@@ -1,0 +1,15 @@
+{
+    "classes": [
+    {"class": "Mage", "name": "Jaina Proudmoore"},
+    {"class": "Hunter", "name": "Rexxar"},
+    {"class": "Druid", "name": "Malfurion Stormrage"},
+    {"class": "Warrior", "name": "Garrosh Hellscream"},
+    {"class": "Paladin", "name": "Uther Lightbringer"},
+    {"class": "Shaman", "name": "Thrall"},
+    {"class": "Rogue", "name": "Valeera Sanguinar"},
+    {"class": "Demon Hunter", "name": "Illidan Stormrage"},
+    {"class": "Priest", "name": "Anduin Wyrnn"},
+    {"class": "Warlock", "name": "Gul`dan"},
+    {"class": "Death Knight", "name": "The Lich King"}
+    ]
+}
