@@ -1,12 +1,12 @@
 {
     "sitater": [
     {"sitat": "Spørsmålet bør si det svaret ikke vet"},
-    {"sitat": "Livet er som en kalender, der jeg er 30. februar"},
-    {"sitat": "Graver du i sannheten, finner du støv og løgner"},
-    {"sitat": "Respekter lykken, og lykken vil tjene deg"},
-    {"sitat": "Gårsdagens lengsel er skammens urettferdighet"},
+    {"sitat": "Livet er som en kalender,<br> der jeg er 30. februar"},
+    {"sitat": "Graver du i sannheten,<br> finner du støv og løgner"},
+    {"sitat": "Respekter lykken,<br> og lykken vil tjene deg"},
+    {"sitat": "Gårsdagens lengsel er<br> skammens urettferdighet"},
     {"sitat": "Uekte ekthet gir glemt last"},
-    {"sitat": "Eksamen er som en god parfyme. Det går av seg selv"},
+    {"sitat": "Eksamen er som en god parfyme.<br> Det går av seg selv"},
     {"sitat": "Jeg elsker katter"}
     ]
 }
